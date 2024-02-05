@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239084278784",
+    "project_id": "fir-pushnotification-e5fe5",
+    "storage_bucket": "fir-pushnotification-e5fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239084278784:android:9920a5f7ce46638116f4e5",
+        "android_client_info": {
+          "package_name": "org.savdev.mykmm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs_pco8zx6C8G0Uwmvqq_1NyDrMgfVdnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
