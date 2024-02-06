@@ -22,7 +22,11 @@ kotlin {
 
 
     }
-    
+
+    task("testClasses").doLast {
+        println("xxx")
+    }
+
     androidTarget {
         compilations.all {
             kotlinOptions {
